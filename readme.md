@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kabir Jaipal</h1>
+<h1 align="center">Hi I'm Shree</h1>
 <h3 align="center">A Web and Discord Bot Developer From India</h3>
 
 <img align="center" src="https://discord.c99.nl/widget/theme-2/882481863661342770.png" alt="Discord"/>
