@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Kabir Jaipal</h1>
+<h3 align="center">A Web and Discord Bot Developer From India</h3>
+
+<img align="center" src="https://discord.c99.nl/widget/theme-2/882481863661342770.png" alt="Discord"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirsingh2004&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsingh2004" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabirsingh2004" alt="kabirsingh2004" /></a> </p>
+
+
 # Discord.js-v14-Handlers Template
 
 Hello, this repository represents the basic template to get started with a Discord Bot in Discord.JS v14. You can clone or fork this repository and start making changes if you want.
