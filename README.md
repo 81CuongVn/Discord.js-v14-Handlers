@@ -7,7 +7,8 @@ Hello, this repository represents the basic template to get started with a Disco
 * Discord.JS v14 (Install it from [here](https://www.npmjs.com/package/discord.js/v/14.0.3))
 
 ## How to start the bot?
-If you already have created your Discord Bot Application, please skip to `step 5`.
+If you already have created your Discord Bot Application, please skip to.
+
 `1.` Go [this site](https://discord.com/developers/applications) and click on **New Application**, and just name it whatever you want.
 
 `2.` After the creation of the application, head over to the menu **Tab**, and push the buttons on the right side for everything except, *REQUIRES OAUTH2 CODE GRANT* this option. You can enable the *MESSAGE INTENT* also if you want. An example image is shown below,
