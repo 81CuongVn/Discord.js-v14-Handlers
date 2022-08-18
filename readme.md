@@ -1,7 +1,6 @@
 <h1 align="center">Hi I'm Shree</h1>
 
-<img align="center" src="https://discord.c99.nl/widget/theme-4/606099560854585365.png" alt="Discord"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sh3ee&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsingh2004" /> </p>
+<img align="center" src="https://discord.c99.nl/widget/theme-4/606099560854585365.png" alt="Discord"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh3ee&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsingh2004" /> </p>
 
 # Discord.js-v14-Handlers Template
 
