@@ -3,7 +3,7 @@
 
 <img align="center" src="https://discord.c99.nl/widget/theme-2/882481863661342770.png" alt="Discord"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirsingh2004&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsingh2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sh3ee&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsingh2004" /> </p>
 
 # Discord.js-v14-Handlers Template
 
