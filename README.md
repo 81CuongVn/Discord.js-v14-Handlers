@@ -11,7 +11,7 @@ If you already have created your Discord Bot Application, please skip to `step 5
 1. Go [this site](https://discord.com/developers/applications) and click on **New Application**, and just name it whatever you want.
 2. After the creation of the application, head over to the menu **Tab**, and push the buttons on the right side for everything except, *REQUIRES OAUTH2 CODE GRANT* this option. You can enable the *MESSAGE INTENT* also if you want. An example image is shown below,
 
-![Setup the Bot like this](/Images/bot.png "Discord Developers Portal")
+![Setup the Bot like this](https://github.com/dragoluca22/Discord-Bot-Template-v14/blob/master/Images/bot.png?raw=true)
 
 3. Go to the **OAuth2** menu, and head over to the sub-menu called **URL Generator**. In the scopes, please check on *Bot* & *applications.commands*. Underneath inside the last box, choose your permissions and copy the URL that is generated below.
 4. Paste the url in another tab and invite the bot to your server.
