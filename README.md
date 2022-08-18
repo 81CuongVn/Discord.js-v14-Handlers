@@ -17,11 +17,11 @@ If you already have created your Discord Bot Application, please skip to `step 5
 4. Paste the url in another tab and invite the bot to your server.
 5. After inviting the bot, open this project in your IDE, and write `npm i` in the Console/Shell and hit enter. For VS Code users, hit `Ctrl + J` to open up the terminal and then run this command. This will install all the required packages!
 6. Now, go back to your **Discord Developers Portal** and go to the menu **Bot**. Here click on *Reset Token* & copy this token.
-7. Go to the file *.env* and replace the token with `YOUR_BOT_TOKEN`. The final one should look like this,
+7. Go to the file *.env* and replace the token with `BOT_TOKEN`. The final one should look like this,
 `DISCORD_TOKEN = ewtgwsry.784ny03574yvn952784yup092y3u41.4ttw4ty4wy9`
 8. Now go to your server and create a logs channel if you don't have and copy it's ID. If you don't know how to copy ID of an element in Discord [follow this](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
-9. Go again to the `.env` file and replace that ID with `LOGS_CHANNEL_IN_YOUR_SERVER`. The final one should look like this,
-`LOGS = 8981463146845232`
+9. Go again to the `.env` file and replace that ID with `LOGS_CHANNEL`. The final one should look like this,
+`LOGS = 89814879844897`
 10. Go to your console, write `node .` and hit enter. If you've done everything correctly, the bot should be turned on now!
 
 ## How to add my own file?
