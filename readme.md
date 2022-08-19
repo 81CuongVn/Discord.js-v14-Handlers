@@ -8,11 +8,39 @@
 `Hello, this repository represents the basic template to get started with a Discord Bot in Discord.JS v14. You can clone or fork this repository and start making changes if you want.`
 
 ## Requirements:
-* Node.JS version ```16.9.0``` or higher (Recommended latest LTS version of NodeJS, install it from [here](https://nodejs.org/en/))
+* Node.JS version ```16.9.0``` or higher (Recommended latest ```LTS version of NodeJS```, install it from [here](https://nodejs.org/en/))
 * Discord.JS v14 (Install it from [here](https://www.npmjs.com/package/discord.js/v/14.0.3))
 
 ## How to start the bot?
-If you already have created your Discord Bot Application, please skip to.
+If you already have created your Discord Bot Application, please skip to this part.
+
+## Now How to Make application?
+
+⚙ **Setting up a bot application**
+
+Creating a Bot Account
+In order to work with the library and the Discord API in general, we must first create a Discord Bot account.
+
+**Creating a Bot account is a pretty straightforward process.**
+
+`1.` Make sure you’re logged on to the Discord website.
+
+`2.` Navigate to the application page
+
+`3.` Click on the “New Application” button.
+https://media.discordapp.net/attachments/952449038890975233/1010076684042653726/unknown.png?width=123&height=44
+
+`4.` Give the application a name and click “Create”.
+https://cdn.discordapp.com/attachments/952449038890975233/1010076726296055868/unknown.png
+
+`5.` Create a Bot User by navigating to the “Bot” tab and clicking “Add Bot”.
+⚪ Click “Yes, do it!” to continue.
+https://cdn.discordapp.com/attachments/952449038890975233/1010076866293534791/unknown.png
+
+`6.` Make sure that Public Bot is ticked if you want others to invite your bot.
+⚪ You should also make sure that Require OAuth2 Code Grant is unchecked unless you are developing a service that needs it. 
+If you’re unsure, then leave it unchecked.
+https://cdn.discordapp.com/attachments/952449038890975233/1010076896790331452/unknown.png
 
 `1.` Go [this site](https://discord.com/developers/applications) and click on **New Application**, and just name it whatever you want.
 
