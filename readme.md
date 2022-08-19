@@ -42,7 +42,6 @@ If you already have created your Discord Bot Application, please skip to.
 
 ##
 
-|*Features* |dbd-soft-ui|[dbd-capriham-theme](https://npmjs.com/package/dbd-capriham-theme)|[dbd-dark-dashboard](https://npmjs.com/package/dbd-dark-dashboard)|
 |-------------|---------------|-------------|--------------------------|
 |Command Categories|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">✅</p>
 |Light Theme|<p align="center">✅</p>|<p align="center">✅</p>|<p align="center">❌</p>
