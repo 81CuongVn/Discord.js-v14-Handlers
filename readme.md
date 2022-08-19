@@ -43,7 +43,7 @@ In order to work with the library and the Discord API in general, we must first 
 `6.` Make sure that Public Bot is ticked if you want others to invite your bot.
 ⚪ You should also make sure that Require OAuth2 Code Grant is unchecked unless you are developing a service that needs it. 
 If you’re unsure, then leave it unchecked.
-![Setup the Bot like this](https://cdn.discordapp.com/attachments/952449038890975233/1010076896790331452/unknown.png"Discord Developers Portal")
+![Setup the Bot like this](https://cdn.discordapp.com/attachments/952449038890975233/1010076896790331452/unknown.png "Discord Developers Portal")
 
 `7.` After the creation of the application, head over to the menu **Tab**, and push the buttons on the right side for everything except, *REQUIRES OAUTH2 CODE GRANT* this option. You can enable the *MESSAGE INTENT* also if you want. An example image is shown below,
 
