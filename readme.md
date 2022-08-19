@@ -23,7 +23,7 @@ In order to work with the library and the Discord API in general, we must first 
 
 **Creating a Bot account is a pretty straightforward process.**
 
-`1.` Make sure you’re logged on to the Discord website.
+`1.` Go [this site](https://discord.com/developers/applications) and click on **New Application**, and just name it whatever you want.
 
 `2.` Navigate to the application page
 
@@ -42,9 +42,10 @@ https://cdn.discordapp.com/attachments/952449038890975233/1010076866293534791/un
 If you’re unsure, then leave it unchecked.
 https://cdn.discordapp.com/attachments/952449038890975233/1010076896790331452/unknown.png
 
-`1.` Go [this site](https://discord.com/developers/applications) and click on **New Application**, and just name it whatever you want.
 
-`2.` After the creation of the application, head over to the menu **Tab**, and push the buttons on the right side for everything except, *REQUIRES OAUTH2 CODE GRANT* this option. You can enable the *MESSAGE INTENT* also if you want. An example image is shown below,
+`7.` After the creation of the application, head over to the menu **Tab**, and push the buttons on the right side for everything except, *REQUIRES OAUTH2 CODE GRANT* this option. You can enable the *MESSAGE INTENT* also if you want. An example image is shown below,
+
+![Setup the Bot like this](https://cdn.discordapp.com/attachments/952449038890975233/1010078228196630558/unknown.png "Discord Developers Portal")
 
 `3.` Go to the **OAuth2** menu, and head over to the sub-menu called **URL Generator**. In the scopes, please check on *Bot* & *applications.commands*. Underneath inside the last box, choose your permissions and copy the URL that is generated below.
 
