@@ -8,7 +8,7 @@
 `Hello, this repository represents the basic template to get started with a Discord Bot in Discord.JS v14. You can clone or fork this repository and start making changes if you want.`
 
 ## Requirements:
-* Node.JS version 16.9.0 or higher (Recommended latest LTS version of NodeJS, install it from [here](https://nodejs.org/en/))
+* Node.JS version ```16.9.0``` or higher (Recommended latest LTS version of NodeJS, install it from [here](https://nodejs.org/en/))
 * Discord.JS v14 (Install it from [here](https://www.npmjs.com/package/discord.js/v/14.0.3))
 
 ## How to start the bot?
