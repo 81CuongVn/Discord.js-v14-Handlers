@@ -41,17 +41,4 @@ If you already have created your Discord Bot Application, please skip to.
 * For any type of events, please head over to the folder, **Events** and follow the procedure of adding Commands.
 
 ##
-
-|-------------|---------------|-------------|--------------------------|
-|Command Categories|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">✅</p>
-|Light Theme|<p align="center">✅</p>|<p align="center">✅</p>|<p align="center">❌</p>
-|Dark Theme|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">✅</p>
-|Server Information|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">✅</p>
-|User Information|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">❌</p>
-|Admin Page|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">❌</p>
-|Pterodactyl Support|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">❌</p>
-|Feeds v2|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">❌</p>
-|Customisable Color Scheme|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">❌</p>
-|Premium|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">❌</p>
-|Statistics|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">❌</p>
-|Commands Search|<p align="center">✅</p>|<p align="center">❌</p>|<p align="center">❌</p>
+1916
