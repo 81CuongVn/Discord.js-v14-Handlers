@@ -32,6 +32,8 @@ In order to work with the library and the Discord API in general, we must first 
 
 
 `4.` Give the application a name and click “Create”.
+
+
 ![Setup the Bot like this](https://cdn.discordapp.com/attachments/952449038890975233/1010076726296055868/unknown.png "Discord Developers Portal")
 
 
