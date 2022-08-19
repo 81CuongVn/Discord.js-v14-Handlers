@@ -40,10 +40,9 @@ If you already have created your Discord Bot Application, please skip to.
 * For any type of commands, please head over to the folder, **Commands** and create another folder inside it. **DO NOT ADD A JS FILE INSIDE COMMANDS FOLDER**. It should be, *Commands > Information > ping.js*. So, we've the main folder, then a category folder and then the `js` file.
 * For any type of events, please head over to the folder, **Events** and follow the procedure of adding Commands.
 
-
 ## Features
 
-The table below shows the features **v14 Slash Handler of discord.js**
+The table below shows the features **dbd-soft-ui** has compared to other themes for **[discord-dashboard](https://npmjs.com/package/discord-dashboard)**.
 
 |*Features* |dbd-soft-ui|[dbd-capriham-theme](https://npmjs.com/package/dbd-capriham-theme)|[dbd-dark-dashboard](https://npmjs.com/package/dbd-dark-dashboard)|
 
