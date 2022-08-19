@@ -28,6 +28,7 @@ In order to work with the library and the Discord API in general, we must first 
 `2.` Navigate to the application page
 
 `3.` Click on the “New Application” button.
+
 ![Setup the Bot like this](https://cdn.discordapp.com/attachments/952449038890975233/1010076684042653726/unknown.png "Discord Developers Portal")
 
 
