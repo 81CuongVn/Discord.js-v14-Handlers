@@ -40,6 +40,12 @@ If you already have created your Discord Bot Application, please skip to.
 * For any type of commands, please head over to the folder, **Commands** and create another folder inside it. **DO NOT ADD A JS FILE INSIDE COMMANDS FOLDER**. It should be, *Commands > Information > ping.js*. So, we've the main folder, then a category folder and then the `js` file.
 * For any type of events, please head over to the folder, **Events** and follow the procedure of adding Commands.
 
+![Banner](./soft-ui_bg.png)
+
+## Information
+
+This theme has not released yet, for updates join the [discord-dashboard discord](https://discord.gg/CHbfcSbEgd).
+
 ## Features
 
 The table below shows the features **dbd-soft-ui** has compared to other themes for **[discord-dashboard](https://npmjs.com/package/discord-dashboard)**.
