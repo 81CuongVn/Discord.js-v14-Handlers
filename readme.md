@@ -28,20 +28,22 @@ In order to work with the library and the Discord API in general, we must first 
 `2.` Navigate to the application page
 
 `3.` Click on the “New Application” button.
-https://media.discordapp.net/attachments/952449038890975233/1010076684042653726/unknown.png?width=123&height=44
+![Setup the Bot like this](https://media.discordapp.net/attachments/952449038890975233/1010076684042653726/unknown.png?width=123&height=44"Discord Developers Portal")
+
 
 `4.` Give the application a name and click “Create”.
-https://cdn.discordapp.com/attachments/952449038890975233/1010076726296055868/unknown.png
+![Setup the Bot like this](https://cdn.discordapp.com/attachments/952449038890975233/1010076726296055868/unknown.png "Discord Developers Portal")
+
 
 `5.` Create a Bot User by navigating to the “Bot” tab and clicking “Add Bot”.
 ⚪ Click “Yes, do it!” to continue.
-https://cdn.discordapp.com/attachments/952449038890975233/1010076866293534791/unknown.png
+![Setup the Bot like this](https://cdn.discordapp.com/attachments/952449038890975233/1010076866293534791/unknown.png "Discord Developers Portal")
+
 
 `6.` Make sure that Public Bot is ticked if you want others to invite your bot.
 ⚪ You should also make sure that Require OAuth2 Code Grant is unchecked unless you are developing a service that needs it. 
 If you’re unsure, then leave it unchecked.
-https://cdn.discordapp.com/attachments/952449038890975233/1010076896790331452/unknown.png
-
+![Setup the Bot like this](https://cdn.discordapp.com/attachments/952449038890975233/1010076896790331452/unknown.png"Discord Developers Portal")
 
 `7.` After the creation of the application, head over to the menu **Tab**, and push the buttons on the right side for everything except, *REQUIRES OAUTH2 CODE GRANT* this option. You can enable the *MESSAGE INTENT* also if you want. An example image is shown below,
 
